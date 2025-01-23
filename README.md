@@ -1,5 +1,5 @@
 # Knowledge graph of Scopus of the engineering field from the CU Office of Academic Resources (2018 - 2023)
-**The knowledge graph has 10 node types and relationships.** This project first performs a simple EDA on the database and trains 2 models: co-authorship prediction graph neural network 
+**The constructed knowledge graph has 10 node types and relationships.** This project first performs a simple EDA on the database and trains 2 models: co-authorship prediction graph neural network 
 and K-means clustering.
 <img width="920" alt="Screenshot 2568-01-23 at 17 03 41" src="https://github.com/user-attachments/assets/ea916610-10d0-4ba1-8bf2-398292dde9c6" />
 <img width="262" alt="Screenshot 2568-01-23 at 17 02 29" src="https://github.com/user-attachments/assets/b4e9c071-3ea7-4204-aba8-ade78825639b" />
@@ -26,7 +26,7 @@ AURA_DS=true
 OPENAI_API_KEY=
 # (optional) for tracing
 LANGCHAIN_TRACING_V2=
-LANGCHAIN_ENDPOINT="
+LANGCHAIN_ENDPOINT=
 LANGCHAIN_API_KEY=
 LANGCHAIN_PROJECT=
 
