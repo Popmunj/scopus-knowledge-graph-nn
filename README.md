@@ -1,4 +1,4 @@
-# Knowledge graph of a scopus of engineering field literatures from the CU Office of Academic Resources (2018 - 2023)
+# Knowledge graph of Scopus of the engineering field from the CU Office of Academic Resources (2018 - 2023)
 **The knowledge graph has 10 node types and relationships.** This project first performs a simple EDA on the database and trains 2 models: co-authorship prediction graph neural network 
 and K-means clustering.
 <img width="920" alt="Screenshot 2568-01-23 at 17 03 41" src="https://github.com/user-attachments/assets/ea916610-10d0-4ba1-8bf2-398292dde9c6" />
