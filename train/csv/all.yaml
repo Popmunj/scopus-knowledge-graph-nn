@@ -1,0 +1,23 @@
+# Node
+data['Author']
+- node.id (int):
+- x: None
+
+data['Literature']
+- node.id (int): 
+- x: Abstract embeddings
+
+data['Keyword']
+- node.id (int):
+- x: Embeddings
+
+
+# Edges
+data['Author', 'has_written', 'Literature']
+- edge_index:
+
+data['Literature', 'uses', 'Keyword']
+- edge_index:
+
+data['Author', 'co-authored', 'Author']
+- edge_index:
